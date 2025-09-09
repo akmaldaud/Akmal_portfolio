@@ -20,7 +20,7 @@ Drop all PDF statements into the project directory. The program will read all tr
 ### Windows
 Ensure `.py` files are associated with Python.
 
-Run (double-click) `convert.py`.
+Run (double-click) `execute.py`.
 
 ### Linux/macOS
 Run `./convert.py` in a terminal.
