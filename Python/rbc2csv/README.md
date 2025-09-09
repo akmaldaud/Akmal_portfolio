@@ -23,4 +23,4 @@ Ensure `.py` files are associated with Python.
 Run (double-click) `execute.py`.
 
 ### Linux/macOS
-Run `./convert.py` in a terminal.
+Run `./execute.py` in a terminal.
