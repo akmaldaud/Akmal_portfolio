@@ -23,3 +23,5 @@ We suggest that you begin by typing:
   npm start
 
 Happy hacking!
+
+#remove node_modules and package-lock.json
