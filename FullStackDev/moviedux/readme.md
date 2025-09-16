@@ -25,3 +25,7 @@ We suggest that you begin by typing:
 Happy hacking!
 
 #remove node_modules and package-lock.json
+
+D:\React\moviedux>npm install
+
+D:\React\moviedux>npm start
